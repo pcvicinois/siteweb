@@ -54,7 +54,7 @@ ol {
 }
 
 ul  {
- padding-left:0;   
+ padding-left:0;
 }
 
 ul li  {
@@ -208,7 +208,6 @@ img.img {
   width: 25%;
   display: inline-block;
   padding: 10px;
-  
 }
 
 /* footer */
@@ -259,4 +258,3 @@ span.result{
 .spacer {
   clear: both;
 }
-
